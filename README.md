@@ -1,0 +1,2 @@
+# Gojohub-script
+Gojohub
